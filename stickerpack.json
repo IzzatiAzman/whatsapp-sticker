@@ -1,0 +1,33 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "my_sticker_pack",
+      "name": "Cool Stickers",
+      "publisher": "Izzati Azman",
+      "tray_image_file": "https://izzatiazman.github.io/whatsapp-sticker/tray_icon.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "stickers": [
+        {
+          "image_file": "https://izzatiazman.github.io/whatsapp-sticker/001.webp",
+          "emojis": ["😄", "😂"]
+        },
+        {
+          "image_file": "https://izzatiazman.github.io/whatsapp-sticker/002.webp",
+          "emojis": ["👍", "👌"]
+        },
+        {
+          "image_file": "https://izzatiazman.github.io/whatsapp-sticker/003.webp",
+          "emojis": ["🥰", "💖"]
+        }
+      ],
+      "license_agreement_url": "",
+      "privacy_policy_url": "",
+      "publisher_email": "",
+      "publisher_website": "",
+      "animated_sticker_pack": false
+    }
+  ]
+}
