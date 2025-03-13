@@ -3,7 +3,7 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
-      "identifier": "my_sticker_pack",
+      "identifier": "sticker_pack_test_09090909",
       "name": "Cool Stickers",
       "publisher": "Izzati Azman",
       "tray_image_file": "https://izzatiazman.github.io/whatsapp-sticker/tray_icon.webp",
